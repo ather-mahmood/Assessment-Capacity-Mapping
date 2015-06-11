@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the MIRA District Organizations feature.
+ */
+
+include_once 'mira_district_org.features.inc';
